@@ -29,4 +29,4 @@
 ## <span id="cg">Computer Graphics</span>
 | Courses                                                      | [(Back to TOC)](#cgcv)                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) | **GAMES101**<br>本课程将全面而系统地介绍现代计算机图形学的四大组成部分：（1）光栅化成像，（2）几何表示，（3）光的传播理论，以及（4）动画与模拟。每个方面都会从基础原理出发讲解到实际应用，并介绍前沿的理论研究。通过本课程，你可以学习到计算机图形学背后的数学和物理知识，并锻炼实际的编程能力。<br>Teaching by [@Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/). |
+| [GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html), [哔哩哔哩](https://www.bilibili.com/video/BV1X7411F744?from=search&seid=2910698734624946149)| **GAMES101**<br>本课程将全面而系统地介绍现代计算机图形学的四大组成部分：（1）光栅化成像，（2）几何表示，（3）光的传播理论，以及（4）动画与模拟。每个方面都会从基础原理出发讲解到实际应用，并介绍前沿的理论研究。通过本课程，你可以学习到计算机图形学背后的数学和物理知识，并锻炼实际的编程能力。<br>Teaching by [@Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/). |
