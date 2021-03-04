@@ -40,3 +40,10 @@
 | Website                                                   | [(Back to TOC)](#cgcv)                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[计算机图形学与混合现实研讨会 (GAMES: Graphics And Mixed Environment Seminar)](http://games-cn.org/about-games/)] | 我国计算机图形学和虚拟现实的研究和交流合作的平台|
+
+## <span id="research">Research</span>
+### <span id="research-researchers"> researchers</span>
+| Researchers                                               | [(Back to TOC)](#cgcv)                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Lingqi Yan (闫令琪)](http://www.cs.ucsb.edu/~lingqi/?tdsourcetag=s_pctim_aiomsg#bio) | An Assistant Professor at UC Santa Barbara                   |
+| [Ligang Liu (刘利刚)](http://staff.ustc.edu.cn/~lgliu/)      | A Professor at Graphics & Geometric Computing Laboratory (GCL), school of mathematical sciences USTC. |
