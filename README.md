@@ -1,1 +1,1 @@
-# <span id="fwg"> fun-with-graphics</span>
+# <span id="cg"> computer-graphics</span>
