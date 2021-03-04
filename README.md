@@ -26,3 +26,6 @@
   - [Research](#research)
     - [Researchers](#research-researchers)
     - [Labs](#research-labs)
+## <span id="cg">Computer Graphics</span>
+| Courses                                                      | [(Back to TOC)](#cgcv)                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
