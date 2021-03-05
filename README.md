@@ -48,7 +48,7 @@
 ## <span id="cv-website "> Website </span>
 | Website                                                   | [(Back to TOC)](#cgcv)                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|[SLAM_Lib](https://github.com/Jinqiang/SLAM_Lib] | |
+|[SLAM_Lib](https://github.com/Jinqiang/SLAM_Lib) | |
 
 
 ## <span id="research">Research</span>
