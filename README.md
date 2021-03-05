@@ -49,6 +49,7 @@
 | Website                                                   | [(Back to TOC)](#cgcv)                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |[SLAM_Lib](https://github.com/Jinqiang/SLAM_Lib) | A collection of SLAM materials, which are all extracted online from various sources.|
+|[SLAM_研习社](https://github.com/electech6/LearnSLAM) | SLAM从基础到深挖到应用，懂原理会应用，完全搞透彻，不留知识死角|
 
 
 ## <span id="research">Research</span>
